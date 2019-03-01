@@ -1,1 +1,2 @@
-士大夫胜多负少
+Git is a version control system.
+Git is free software.
