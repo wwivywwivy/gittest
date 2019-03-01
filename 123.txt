@@ -1,2 +1,3 @@
+涉及到法律但是
 Git is a version control system.
 Git is free software.
